@@ -2,9 +2,9 @@
 🌟 Acerca de mí<br>🔧 Actualmente trabajo como Administrador de Sistemas y eso me permite explorar y llevar los sistemas al límite, optimizándolos para que sean más seguros, robustos y eficientes.<br>📚 Actualmente aprendiendo:<br>Ciberseguridad ofensiva y defensiva<br>Hacking ético <br>Automatización de sistemas y herramientas de seguridad (Bash, Python, etc.)<br>💬 Pregúntame sobre:<br>Administración de sistemas Linux/Windows<br>Mejores prácticas en TI<br>Configuración de entornos seguros y redes<br>🎉 Dato curioso:<br>¡Puedo pasar horas intentando hackearme a mí mismo para mejorar mi seguridad digital! 🛡️
 
 🎯 Mis próximos objetivos
-Obtener certificaciones en ciberseguridad (OSCP, CISSP).
-Contribuir a proyectos de código abierto relacionados con la seguridad informática.
-Crear mis propias herramientas para pruebas de penetración.
+Obtener certificaciones en ciberseguridad (OSCP, CISSP).<br>
+Contribuir a proyectos de código abierto relacionados con la seguridad informática.<br>
+Crear mis propias herramientas para pruebas de penetración.<br>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
